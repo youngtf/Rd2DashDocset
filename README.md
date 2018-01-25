@@ -1,6 +1,6 @@
 # README #
 
-### R/Rd2Dash ###
+### R/Rd2DashDocset ###
 
 [Dash](https://kapeli.com/dash) is a wonderful tool to manage API documentation sets in MAC (OS X). Currently, the documentation is available only for R/base as Dash docset, and it is usually not good enough for analysis in practice. It would be more convenient if we can generate customized Dash docsets including the documentation of those (and only those) packages used in projects.
 
